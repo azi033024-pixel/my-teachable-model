@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.12","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-04-02T11:47:43.530Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["正常","细菌性肺炎","病毒性肺炎","肺气肿","肺不张","肺纤维化","肺结核","新冠","气胸"],"imageSize":224}
